@@ -19,8 +19,7 @@ class Game {
     if(gameState === 0){
       player = new Player();
       player.getCount();
-      form = new Form()
-      form.display();
+    //create new form and display
     }
   }
 }
