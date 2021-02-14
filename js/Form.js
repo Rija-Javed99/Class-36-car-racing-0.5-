@@ -1,15 +1,11 @@
 class Form {
   constructor() {
-    
   }
 
   display(){
    
     
     
-    
-
-    });
 
   }
 }
